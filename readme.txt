@@ -103,6 +103,8 @@ Durotomy: 12,141
 Description:
 Zip file that contains all of the video frames, as .jpeg files.
 
+File located on FigShare: https://figshare.com/articles/dataset/frames_zip/20201636
+
 
 #############
 # sospine_tool_tips.csv #
