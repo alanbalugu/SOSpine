@@ -5,6 +5,9 @@
 
 Simulated Outcomes for Durotomy Repair in Minimally Invasive Spine Surgery (SOSpine) dataset version 1.
 
+See official dataset publication here:
+https://figshare.com/projects/Simulated_Outcomes_for_Durotomy_Repair_in_Minimally_Invasive_Spine_Surgery_SOSpine_/142508
+
 
 #################
 ## DATASET USE ##
@@ -80,11 +83,11 @@ Durotomy: 24,279
 Number of generated bounding boxes:
 
 
-        Needle: 1,417
-        Needle Driver: 4,238
-        Grasper: 2,375
-        Nerve Hook: 1,200
-        Durotomy: 12,141
+Needle: 1,417
+Needle Driver: 4,238
+Grasper: 2,375
+Nerve Hook: 1,200
+Durotomy: 12,141
 
 
 ###################
@@ -185,7 +188,7 @@ Description:
 
 
 Trial ID        
-Trial ID that refers to the surgeon and attempt number. S# denoting surgeon and A# denoting the attempt. 
+        Trial ID that refers to the surgeon and attempt number. S# denoting surgeon and A# denoting the attempt. 
 
 
 Length        
@@ -197,19 +200,19 @@ Postgraduate year
 
 
 Prior experience with MISS
-Whether participant had experience with minimally invasive spine surgery cases in the past        
+        Whether participant had experience with minimally invasive spine surgery cases in the past        
 
 
 Number prior cases
-Number of minimally invasive spine surgery (MISS) cases that the participant has been involved with prior to the SoSpine trials
+        Number of minimally invasive spine surgery (MISS) cases that the participant has been involved with prior to the SoSpine trials
         
 Time for repair
-Number of seconds needed to complete the durotomy repair procedure. Defined from the time from initial instrument contact with dura to the time at which instruments exited the field on securing the final knot
+        Number of seconds needed to complete the durotomy repair procedure. Defined from the time from initial instrument contact with dura to the time at which instruments exited the field on securing the final knot
 
 
 Leak At 40mmHg
-Presence of a CSF leak after completion of the durotomy repair and pressurizing the system to 40 mm Hg.
+        Presence of a CSF leak after completion of the durotomy repair and pressurizing the system to 40 mm Hg.
 
 
 Total Frames at 1 FPS
-Number of video frames from the trial that are included in this dataset within the frames.zip file.
+        Number of video frames from the trial that are included in this dataset within the frames.zip file.
