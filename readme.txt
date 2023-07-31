@@ -14,8 +14,8 @@ https://figshare.com/projects/Simulated_Outcomes_for_Durotomy_Repair_in_Minimall
 #################
 
 
-This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. 
-https://creativecommons.org/licenses/by-nc/4.0/
+This work is licensed under a Creative Commons Attribution 4.0 International License. 
+https://creativecommons.org/licenses/by/4.0/
 
 
 If you plan to publish work that used this dataset in any capacity, please cite this data release.
